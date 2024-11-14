@@ -1,0 +1,4 @@
+opencv-python==4.10.0.84
+ultralytics==8.3.27
+paho-mqtt==2.1.0
+math
